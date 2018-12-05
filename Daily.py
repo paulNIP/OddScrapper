@@ -30,8 +30,8 @@ sel_soup=BeautifulSoup(html_of_interest, 'html.parser')
 time.sleep(5)
 # //*[@id="g_1_rgXBwzaS"]
 # //*[@id="g_1_MgXQfyU2"]
-todays_tables=browser.find_elements_by_xpath('//*[@id="fs"]/div[2]/table[1]/tbody')
 
+todays_tables=browser.find_elements_by_tag_name('tbody')
 
 for today in todays_tables:
 	cells = today.find_elements_by_tag_name('tr')
