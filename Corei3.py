@@ -4,10 +4,10 @@ from selenium.webdriver.common.keys import Keys
 driver = webdriver.Firefox()
 driver.get("http://fortebet.ug/?#/app/offer/top")
 elem = driver.find_element_by_id("login")
-elem.send_keys("Paul85alex")
+elem.send_keys("")
 
 elem2 = driver.find_element_by_id("password")
-elem2.send_keys("polo1990")
+elem2.send_keys("")
 
 
 
