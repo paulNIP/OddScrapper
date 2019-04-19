@@ -62,6 +62,69 @@ for today in todays_tables:
 	# away=browser.find_element_by_xpath('//*[@id="g_1_rgXBwzaS"]/td[4]').text
 	# homeodd=browser.find_element_by_xpath('//*[@id="g_1_rgXBwzaS"]/td[6]').text
 	# drawodd=browser.find_element_by_xpath('//*[@id="g_1_rgXBwzaS"]/td[7]').text
+	
+	Bayern Munich B
+VfB Eichstatt
+FC Nurnberg B
+Shweinurt
+SpVgg Bayreuth
+Manheim
+Homburg
+Ulm
+Elversberg
+Ger. Ratingen
+SC Velbert
+Homberg
+Lichtenberg
+TB Berlin
+Greifswalder
+Blau-W. Berlin
+Anker Wisamar
+Lok. Leipzig
+Chemnitzer
+berliner AK
+RW Erfur
+Nordhausen
+Viktoria Koln
+Oberhausen
+FC Koln B
+Alemannia A
+Rodinghausen
+Wolves U23
+Reading U23
+Southampton U23
+Newcastle U23
+Aston Villa U23
+Everton U23
+Brighton U23
+Liverpool U23
+Arsenal U23
+Blackburn U23
+Schalke 04 B
+ASC Dortmund
+Paderbon B
+Westafalia Herne
+Tus Haltern
+Stut. Kickers B
+Bahlinger SC
+SGV Freiberg
+Bissingen
+Nottingen
+Altona
+SC Victoria
+Niendorter SV
+Dusseldorf
+FC Teutonia
+Lubeck
+Werder Bremen B
+Los Angeles FC
+Seattle
+L.A. Galaxy
+DC United
+Houston
+Dallas
+Columbus
+
 	# awayodd=browser.find_element_by_xpath('//*[@id="g_1_rgXBwzaS"]/td[8]').text
 	
 #html = browser.execute_script(,url)
